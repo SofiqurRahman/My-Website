@@ -1,0 +1,93 @@
+/* Nav Section */
+#nav-section{}
+
+/* Banner Section */
+#banner-section {
+  margin-top: 100px;
+}
+
+.pink-bg {
+  background: #FCEAE8;
+  border-radius: 10px;
+}
+
+.carousel-item {
+  padding: 20px 40px;
+}
+
+.price {
+  color: #FF136F;
+}
+
+.buy-now-button {
+  background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+}
+
+/* Categories Section */
+#categories-section {
+  margin: 100px 0;
+}
+
+.categories h1 {
+  color: #fff;
+}
+
+.categories img {
+  width: 100px;
+}
+
+.categories-1,
+.categories-2,
+.categories-3 {
+  border-radius: 10px;
+  padding: 10px 30px;
+}
+
+.categories-1 {
+  background-color: aqua;
+}
+
+.categories-2 {
+  background-color: blueviolet;
+}
+
+.categories-3 {
+  background-color: coral;
+}
+
+/* Shoes Categories Section */
+#shoes-categories-section{
+  margin-bottom: 100px; 
+}
+.card{
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+}
+
+/* Backpack Categories Section */
+#backpack-categories-section{
+  margin-bottom: 100px;
+}
+.card-footer{
+  background: #fff;
+  border-top: none;
+}
+
+/* Subscribe Section */
+#subscribe-section{
+  margin-bottom: 100px;
+}
+#subscribe{
+  height: 300px;
+}
+#subscribe h6{
+  color: gray;
+}
+/* Footer Section */
+#footer-section{}
